@@ -1,0 +1,54 @@
+{
+  "badges": [
+    {
+      "firstName": "Richard",
+      "lastName": "Kaufman López",
+      "email": "richardbkaufman@gmail.com",
+      "avatarUrl": "https://www.gravatar.com/avatar/21594ed15d68ace3965642162f8d2e84?d=identicon",
+      "jobTitle": "Frontend Engineer @ Kickass Partners",
+      "twitter": "sparragus",
+      "id": "EYR2BVQ"
+    },
+    {
+      "firstName": "Carolynn",
+      "lastName": "Kaufman",
+      "email": "carolynn@example.com",
+      "avatarUrl": "https://www.gravatar.com/avatar/580a552f26ac5e3a0817c3ecc5b9d690?d=identicon",
+      "jobTitle": "Lawyer",
+      "twitter": "ckaufmanpr",
+      "id": "npaYZKI"
+    },
+    {
+      "firstName": "Steven",
+      "lastName": "Ceballos",
+      "email": "sceballosdev@gmail.com",
+      "jobTitle": "Mobile Developer",
+      "twitter": "sceballosdev",
+      "id": "_oIj4Ux"
+    },
+    {
+      "firstName": "Carlitos",
+      "lastName": "Way",
+      "email": "carlitosway@example.com",
+      "jobTitle": "Soldado profesional",
+      "twitter": "carlitosway",
+      "id": "i8p6KBt"
+    },
+    {
+      "firstName": "Jose",
+      "lastName": "Giraldo",
+      "email": "jocgiraldo@gmail.com",
+      "jobTitle": "Software Arquitect",
+      "twitter": "josesintilde",
+      "id": "WXodglV"
+    },
+    {
+      "firstName": "Sergio",
+      "lastName": "Ramirez",
+      "email": "seramirezdev@gmail.com",
+      "jobTitle": "Mobile & Web Developer",
+      "twitter": "seramirez",
+      "id": "96Oyipi"
+    }
+  ]
+}
